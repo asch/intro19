@@ -1,0 +1,1 @@
+Napište skript, který vezme libovolný textový soubor, seřeadí jeho řádky vzestupně alfabeticky (a opět uloží tak, že původní soubor přepíše) a na výstup vypíše totéž seřazené sestupně. V případě výskytu duplicitních řádků se za každou skupinu objeví jen jeden.
