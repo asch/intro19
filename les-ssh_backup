@@ -1,0 +1,7 @@
+Váš nezkušený kolega často rozbije, co mu příjde pod ruku, včetně filesystemu. V takovém případě vám napíše mail.
+V mailu se omlouvá a prosí o pomoc.
+Máte za úkol:
+
+Napsat skript, který v mail inboxu najde všechny zprávy obsahující 'kolega' ve jméně odesílatele. Dále na počítač, jehož jméno je
+shodné s adresou odesílatele, zkopíruje a rozbalí soubor nejvíce aktuální soubor z vaší složky ~/backup, který má formát
+libovolného archivu. V poslední řade na mail odpoví 'No worries, be more careful next time.'
